@@ -7,7 +7,7 @@ An Joke Assistant LLM built based on Ollama LLM
 - Run the Main File `python ${filename}` which has gradio in it
 - Using Gradio, we can get the request and response of chat interface. 
 
-##Sample
+## Sample Screenshots
 
 ![image](Sample1.png)
 
